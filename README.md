@@ -29,6 +29,8 @@ The application demonstrates an end-to-end Retrieval-Augmented Generation (RAG) 
 
 ---
 
+See [SETUP.pdf](./SETUP.pdf) for the quick local setup and testing instructions.
+
 ## Architecture
 
 ```text
